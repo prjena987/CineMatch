@@ -68,7 +68,7 @@ CineMatch/
     ├── 02_content_based.ipynb  ← TF-IDF recommender
     ├── 03_collaborative.ipynb  ← SVD collaborative filtering
     ├── 04_spotify.ipynb        ← K-Means music clustering
-    └── 05_friend_recommender.ipynb ← Alternative implementation (comparison)
+    └── 05_mov_recommender.ipynb ← Alternative implementation (comparison)
 ```
 
 ---
