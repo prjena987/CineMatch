@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+*.pth
+.venv/
+venv/
+*.env
+
+# Data files
+backend/data/u.data
+backend/data/u.item
+backend/data/spotify_tracks.csv
+backend/data/spotify_tracks_clustered.csv
+backend/data/*.png
+
+# Models
+backend/models/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
